@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://gitlab.com/snatchnaren/99marriage.git"
+    "type": "",
+    "url": ""
   },
   "keywords": [],
   "author": "",
